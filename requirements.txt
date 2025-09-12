@@ -7,3 +7,4 @@ jupyter==1.0.0
 ipykernel==6.29.5
 black==23.12.1
 nbqa==1.8.5
+statsmodels==0.14.2
